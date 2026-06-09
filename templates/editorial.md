@@ -1,8 +1,7 @@
 # {{ contest_name }}
 
+- 分类：{{ contest_class }}
 - 比赛时间：{{ contest_date }}
-- 比赛地点/平台：{{ contest_platform }}
-- 维护者：{{ maintainer }}
 - 题目数：{{ problem_count }}
 
 ## 比赛概览

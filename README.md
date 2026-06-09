@@ -4,10 +4,10 @@
 
 ## 当前收录
 
-- [2025 ICPC Example Regionals / ExampleRegion / The 2025 ICPC Example Regional Contest](solutions/ICPC/Regionals/ExampleRegion/The%202025%20ICPC%20Example%20Regionals/The%202025%20ICPC%20Example%20Regional%20Contest/editorial.md)
+- [2025 ICPC Example Regionals / ExampleRegion / The 2025 ICPC Example Regional Contest](solutions/ICPC/Regionals/ExampleRegion/The-2025-ICPC-Example-Regionals/The-2025-ICPC-Example-Regional-Contest/editorial.md)
 
 ## 补题链接
-- [链接](https://github.com/Wat-sons/XCPC-Solutions/blob/main/docs/XCPC-Problem-Links.md)
+- [XCPC 补题链接收集](https://github.com/Wat-sons/XCPC-Solutions/blob/main/docs/XCPC-Problem-Links.md)
 
 ## 仓库内容
 
