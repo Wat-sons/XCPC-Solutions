@@ -1,6 +1,10 @@
 ### 作者：quchen
 ### 题目：C - Rencontre
 
+## 与本题相关的典题
+https://acm.hdu.edu.cn/showproblem.php?pid=2376
+
+
 ## 题意概述
 
 给定一棵带边权的树，树上有三个人。每个人都有一份候选点列表。
