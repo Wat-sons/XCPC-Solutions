@@ -8,6 +8,8 @@ QOJ 收录 2020 年区域赛为威海、绵阳两站。([QOJ](https://qoj.ac/cat
 | ---- | -------------------- | ---- | ------------------------------------------------------------ |
 | 2020 | 威海站 / Weihai Site | 12   | [QOJ 1793](https://qoj.ac/contest/1793) / [CF Gym 102798](https://codeforces.com/gym/102798) |
 | 2020 | 绵阳站 / Mianyang    | 12   | [QOJ 1838](https://qoj.ac/contest/1838) / [CF Gym 102822](https://codeforces.com/gym/102822) |
+| 2020 | 秦皇岛站 / Qinhuangdao Site | 11   | [CF Gym 102769](https://codeforces.com/gym/102769) |
+| 2020 | 长春站 / Changchun    | 12   |  [CF Gym 102832](https://codeforces.com/gym/102832) |
 
 ## CCPC 2021
 
