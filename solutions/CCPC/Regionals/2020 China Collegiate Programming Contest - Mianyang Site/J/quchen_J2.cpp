@@ -7,7 +7,7 @@ typedef unsigned long long ull;
 const ll INF = -4e18;
 ll n,m;
 ll ans[N];
-
+ 
 struct Node
 {
 	ll t,v;
