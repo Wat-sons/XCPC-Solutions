@@ -12,21 +12,48 @@ void solve()
 {   
     ll p,q;
     cin>>p>>q;
-    if((p==2*q)||(p==(q*q+1))||(p==(q*q-1)))
+    int g = gcd(p,q);
+    p = p/g;
+    q = q/g;
+    ll x = q;
+    vector<int>v;
+    for(int i=2;i*i<=x;i++)
     {
-        if(p==2*q)
+        ll cur = 1;
+        while(x%i==0)
         {
-            cout<<1<<' '<<1<<'\n';
+            cur*=i;
+            x/=i;
         }
-        else
+        if(cur!=1)v.push_back(cur);
+    }
+    if(x>1)v.push_back(x);
+
+    int sz = v.size();
+
+    for(int i=0;i<(1<<sz);i++)
+    {
+        ll a = 1;
+        ll b = 1;
+        for(int j=0;j<sz;j++)
         {
-            cout<<q<<' '<<1<<'\n';
+            if((i>>j)&1)
+            {
+                a*=v[j];
+            }
+            else b*=v[j];
+        }
+
+        if(gcd(a,b)!=1)continue;
+        if(a*b==q&&(a*a+b*b)==p)
+        {
+            cout<<a<<' '<<b<<'\n';
+            return ;
         }
     }
-    else 
-    {
-        cout<<0<<' '<<0<<'\n';
-    }
+
+    cout<<0<<' '<<0<<'\n';
+
 
 }
 
