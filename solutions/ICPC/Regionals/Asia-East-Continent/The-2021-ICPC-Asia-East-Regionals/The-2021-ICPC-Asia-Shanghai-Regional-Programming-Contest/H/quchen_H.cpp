@@ -6,8 +6,6 @@ typedef long long ll;
 typedef unsigned long long ull;
 const ll INF = 1e18;
 int n,m,q;
-
-
 struct Edge
 {
     int u,v;
