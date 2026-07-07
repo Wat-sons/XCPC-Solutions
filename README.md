@@ -4,7 +4,9 @@
 
 ## 当前收录
 
-- [2025 ICPC Example Regionals / ExampleRegion / The 2025 ICPC Example Regional Contest](solutions/ICPC/Regionals/ExampleRegion/The-2025-ICPC-Example-Regionals/The-2025-ICPC-Example-Regional-Contest/editorial.md)
+- [2025 ICPC Example Regionals / ExampleRegion / The 2025 ICPC Example Regional Contest](solutions/ICPC/Regionals/2025/2025_ICPC_Example_Regional/editorial.md)
+
+- (TODO: 自动化整理已经整理过的题解)
 
 ## 补题链接
 - [XCPC 补题链接收集](https://github.com/Wat-sons/XCPC-Solutions/blob/main/docs/XCPC-Problem-Links.md)

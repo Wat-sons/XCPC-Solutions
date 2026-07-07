@@ -14,16 +14,15 @@
 solutions/
   ICPC/
     Regionals/
-      ExampleRegion/
-        The 2025 ICPC Example Regionals/
-          The 2025 ICPC Example Regional Contest/
-            editorial.md
-            A/
-              quchen_A.cpp
-              quchen_A.md
-            B/
-              ...
-            statement.pdf   # 可选
+      2025/
+        2025_ICPC_Example_Regional/
+          editorial.md
+          A/
+            quchen_A.cpp
+            quchen_A.md
+          B/
+            ...
+          statement.pdf   # 可选
 ````
 
 ## 目录职责
