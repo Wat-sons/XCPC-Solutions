@@ -1,0 +1,45 @@
+#include <bits/stdc++.h>
+using namespace std;
+const int N=3e5+10;
+const int mod = 998244353;
+typedef long long ll;
+typedef unsigned long long ull;
+const ll INF = 1e18;
+int n;
+
+
+void solve()
+{
+    string s;
+    cin>>s;
+    int cntt=0,cntd=0;
+    s = " "+s;
+    for(int i=1;i<=5;i++)
+    {
+        if(s[i]=='T')cntt++;
+        else if(s[i]=='D')cntd++;
+    }
+
+    if(cntt>=3)cout<<"T1\n";
+    else if(cntd>=3)cout<<"DRX\n";
+
+
+
+}
+
+int main()
+{
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    int t=1;
+    // cin>>t;
+    while(t--)
+    {
+        solve();
+
+    }
+
+
+    return 0;
+}
